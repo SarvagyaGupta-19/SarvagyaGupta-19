@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Sarvagya653@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TDOxCWpu1qFa6yAHj5eBe7Ii9l1MjuSe/view?usp=sharing](https://drive.google.com/file/d/1TDOxCWpu1qFa6yAHj5eBe7Ii9l1MjuSe/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio](https://sarvagyagupta.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
